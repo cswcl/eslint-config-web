@@ -1,0 +1,24 @@
+{
+  "name": "@csw/eslint-config-web",
+  "version": "1.0.0",
+  "description": "Eslint web rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cswcl/eslint-config-web.git"
+  },
+  "keywords": [
+    "eslint",
+    "csw",
+    "rules"
+  ],
+  "author": "CSW Consultores Ambientales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cswcl/eslint-config-web/issues"
+  },
+  "homepage": "https://github.com/cswcl/eslint-config-web#readme"
+}
